@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m **Richmond Korsah**, an aspiring **Software Engineer** and **Machine Learning enthusiast**  
-- 🔭 I’m currently working on a **School Database Management System** and a **USSD Application**  
+- 🔭 I’m currently working on a **Emergency Response System** and a **USSD Application**  
 - 👀 I’m interested in **web development, machine learning, automation, robotics**, and **data analysis**  
 - 🌱 I’m currently learning **Python, SQL, Data Structures and Algorithms(DSA), and web development frameworks**  
-- 💞️ I’m looking to collaborate on **data analysis, web development, and automation projects**  
+- 💞️ I’m looking to collaborate on **data science, web development, and automation projects**  
 - 🤝 I’m passionate about using technology to **solve problems** that will contribute to making **Ghana** a better and more sustainable country  
 - 💬 Ask me about **Python, Flask, and SQL**  
 - 📫 How to reach me: **richmondkorsah91@gmail.com** or via [LinkedIn](https://linkedin.com/in/richmond-korsah-9a290b309)  
