@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m **Richmond Korsah**, an aspiring **Software Engineer** and **Machine Learning enthusiast**  
-- 🔭 I’m currently working on a **Emergency Response System** and a **USSD Application**  
+- 🔭 I’m currently working on **APIs*  
 - 👀 I’m interested in **web development, machine learning, automation, robotics**, and **data analysis**  
 - 🌱 I’m currently learning **Python, SQL, Data Structures and Algorithms(DSA), and web development frameworks**  
 - 💞️ I’m looking to collaborate on **data science, web development, and automation projects**  
